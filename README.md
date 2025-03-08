@@ -4,17 +4,17 @@ Submitted by: Ann Jayan
 
 This web app: This web app makes flashcards for identifying different nudibranch/sea slugs!
 
-Time spent: **X** hours spent in total
+Time spent: 3 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **The title of the card set and some information about it, such as a short description and the total number of cards are displayed**
-- [ ] **A single card at a time is displayed, only showing one of the components of the information pair**
-- [ ] **A list of card pairs is created**
-- [ ] **Clicking on the card shows the corresponding component of the information pair**
-- [ ] **Clicking the next button displays a random new card**
+- ❤︎ **The title of the card set and some information about it, such as a short description and the total number of cards are displayed**
+- ❤︎ **A single card at a time is displayed, only showing one of the components of the information pair**
+- ❤︎ **A list of card pairs is created**
+- ❤︎ **Clicking on the card shows the corresponding component of the information pair**
+- ❤︎ **Clicking the next button displays a random new card**
 
 The following **optional** features are implemented:
 
@@ -34,18 +34,15 @@ Here's a walkthrough of implemented required features: https://imgur.com/a/ugjWx
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+[Kap](https://getkap.co/)
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I initially made a forward back button, but specifically wanted the back button to show the correct previous card, and the new to show the random cards, but i struggled with it. Also realized the shuffle/unshuffled button doesnt make sense without a shown order of the cards.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 ANN JAYAN
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

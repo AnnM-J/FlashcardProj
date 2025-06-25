@@ -66,3 +66,23 @@ button {
 button:hover {
   background-color: #3b4e7c;
 }
+
+/* Add spacing between the guess input and submit button */
+.guess-form input[type="text"] {
+  margin-right: 10px;
+}
+
+/* Add spacing between Shuffle and Mastered buttons */
+.App > div > button {
+  margin-right: 10px;
+}
+
+/* Add spacing between navigation buttons */
+.button-container button {
+  margin-right: 10px;
+}
+
+/* Optional: Add some margin below the guess form for clarity */
+.guess-form {
+  margin-bottom: 16px;
+}
